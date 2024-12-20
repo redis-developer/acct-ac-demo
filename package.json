@@ -1,0 +1,23 @@
+{
+  "name": "acct-ac-demo",
+  "version": "1.0.0",
+  "description": "demo of Redis auto-complete",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "author": "joey whelan",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "@types/express": "^5.0.0"
+  }
+}

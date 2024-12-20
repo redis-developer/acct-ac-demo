@@ -42,7 +42,7 @@ Name, subsidiary, branch and internal code are all added to 1 Redis Suggest dict
 
 ## Installation <a name="installation"></a>
 ```bash
-git clone https://github.com/Redislabs-Solution-Architects/address-ac.git && cd address-ac
+git clone git@github.com:redis-developer/acct-ac-demo.git && cd acct-ac-demo
 ```
 
 ## Usage <a name="usage"></a>
